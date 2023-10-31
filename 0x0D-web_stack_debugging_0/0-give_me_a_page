@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#start apache2 inside docker
+szrvice apache2 start
+^C
